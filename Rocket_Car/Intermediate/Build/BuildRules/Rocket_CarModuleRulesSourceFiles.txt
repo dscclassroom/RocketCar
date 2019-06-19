@@ -1,2 +1,0 @@
-C:\Users\dscclassroom\Desktop\RocketCar\Rocket_Car\Intermediate\Source\Rocket_Car.Build.cs
-C:\Users\dscclassroom\Desktop\RocketCar\Rocket_Car\Intermediate\Source\Rocket_Car.Target.cs
